@@ -5,6 +5,7 @@ ErythroCrafts assets
 The Master RCS of ErythroCraft
 
 This pack requires:
+- Minecraft
 - Items Adder
 - Slime Fun
 - Train Carts
